@@ -1,0 +1,2 @@
+headline,summaty,link
+,"In this Python Programming video, we will be learning how to run code in parallel using the multiprocessing module. We will also look at how to process multiple high-resolution images at the same time using a ProcessPoolExecutor from the concurrent.futures module. Let’s get started…",fKl2JW_qrso
